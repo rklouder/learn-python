@@ -1,0 +1,2 @@
+#Strings are demarcated using double quotations.
+my_string = "This string."
